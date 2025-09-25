@@ -1,4 +1,4 @@
-# Beyond-Shyness-Setf-Esteem-and-Classroom
+### Beyond-Shyness-Self-Esteem-and-Classroom
 
 Overview: Classroom participation is essential for effective learning, but many students hesitate to engage due to fear of negative evaluation. This research explores how self-esteem influences participation, using survey data and validated self-esteem scales to identify trends in student behavior. The findings provide insights into psychological factors affecting active learning.
 
